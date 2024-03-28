@@ -1,0 +1,17 @@
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\bin\Debug\net8.0-windows\ProyectoInventario.exe
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\bin\Debug\net8.0-windows\ProyectoInventario.deps.json
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\bin\Debug\net8.0-windows\ProyectoInventario.runtimeconfig.json
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\bin\Debug\net8.0-windows\ProyectoInventario.dll
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\bin\Debug\net8.0-windows\ProyectoInventario.pdb
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.Form1.resources
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.csproj.GenerateResource.cache
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.AssemblyInfoInputs.cache
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.AssemblyInfo.cs
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.csproj.CoreCompileInputs.cache
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.sourcelink.json
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.dll
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\refint\ProyectoInventario.dll
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.pdb
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ProyectoInventario.genruntimeconfig.cache
+C:\Users\astri.DESKTOP-KG4HH30\source\repos\ProyectoInventario\obj\Debug\net8.0-windows\ref\ProyectoInventario.dll
