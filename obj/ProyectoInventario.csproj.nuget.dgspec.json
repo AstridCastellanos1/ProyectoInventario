@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\astri.DESKTOP-KG4HH30\\source\\repos\\ProyectoInventario\\ProyectoInventario.csproj": {}
+    "C:\\Users\\katyg\\Source\\Repos\\ProyectoInventario2\\ProyectoInventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\astri.DESKTOP-KG4HH30\\source\\repos\\ProyectoInventario\\ProyectoInventario.csproj": {
+    "C:\\Users\\katyg\\Source\\Repos\\ProyectoInventario2\\ProyectoInventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\astri.DESKTOP-KG4HH30\\source\\repos\\ProyectoInventario\\ProyectoInventario.csproj",
+        "projectUniqueName": "C:\\Users\\katyg\\Source\\Repos\\ProyectoInventario2\\ProyectoInventario.csproj",
         "projectName": "ProyectoInventario",
-        "projectPath": "C:\\Users\\astri.DESKTOP-KG4HH30\\source\\repos\\ProyectoInventario\\ProyectoInventario.csproj",
-        "packagesPath": "C:\\Users\\astri.DESKTOP-KG4HH30\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\astri.DESKTOP-KG4HH30\\source\\repos\\ProyectoInventario\\obj\\",
+        "projectPath": "C:\\Users\\katyg\\Source\\Repos\\ProyectoInventario2\\ProyectoInventario.csproj",
+        "packagesPath": "C:\\Users\\katyg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katyg\\Source\\Repos\\ProyectoInventario2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\astri.DESKTOP-KG4HH30\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\katyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
